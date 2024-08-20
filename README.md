@@ -2,7 +2,7 @@
 
 A simple website created using php, html and css along with sql, to manage peer to peer exchange of books.
 
-Some Image of UI:
+Some Images of the UI:
 
 SignUp Page
 ![Screenshot 2024-08-20 214207](https://github.com/user-attachments/assets/aad8756d-a93d-4a7a-904b-e3e23d5a4b41)
